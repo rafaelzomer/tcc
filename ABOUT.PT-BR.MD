@@ -1,0 +1,1 @@
+# Comparação de um aplicativo android nativo e um progressive web app através da implementação de uma plataforma para integração entre produtores de resíduos e empresas de recolhimento de material reciclável.
