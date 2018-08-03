@@ -1,0 +1,17 @@
+{
+  "name": "rafaelzomer-tcc-webapp",
+  "version": "1.0.0",
+  "description": "A highly scalable, Progressive Web Application foundation with the best Developer Experience (DX).",
+  "scripts": {
+    "start": "pawjs --env=development start",
+    "build": "pawjs --env=production build"
+  },
+  "author": {
+    "name": "Rafael Zomer Antunes",
+    "email": "rafaelzomer@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@pawjs/pawjs": "^2.1.1"
+  }
+}
