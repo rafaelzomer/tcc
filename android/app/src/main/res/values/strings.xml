@@ -3,4 +3,5 @@
     <string name="title_news">Notícias</string>
     <string name="title_map">Mapa</string>
     <string name="title_config">Configurações</string>
+    <string name="loading_text">...</string>
 </resources>

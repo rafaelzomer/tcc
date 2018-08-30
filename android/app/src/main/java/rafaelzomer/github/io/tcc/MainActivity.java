@@ -8,6 +8,8 @@ import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 
+import rafaelzomer.github.io.tcc.news.NewsFragment;
+
 public class MainActivity extends AppCompatActivity {
 
     private Fragment currentFragment;
